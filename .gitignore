@@ -1,0 +1,19 @@
+# Logs
+logs/
+
+# CSV data
+# data/users.csv
+
+# PowerShell temporary files
+*.ps1xml
+*.psc1
+*.psd1
+*.psm1
+
+# MacOS files
+.DS_Store
+
+# IDE/editor files
+.vscode/
+.idea/
+
